@@ -1,5 +1,10 @@
 # Meaningless
 
+```
+hugo new posts/<slug>
+hugo server
+```
+
 ## Template overrides
 
 The `layouts/default/summary-with-image.html` overrides Ananke's default
