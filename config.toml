@@ -1,0 +1,9 @@
+baseURL = 'https://meaningless.website/'
+languageCode = 'en-us'
+title = 'Meaningless'
+theme = 'ananke'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
