@@ -19,6 +19,10 @@ Custom front matter param `featured_image_alt` for better A11y.
 The _Read More_ button is hidden by default. The `long: true` param tells
 Hugo to render the button.
 
+### Page headers
+
+All page header partials come without headers.
+
 ## Shoutouts
 
 This project would not be possible without open source software
